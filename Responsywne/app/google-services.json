@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325333234287",
+    "firebase_url": "https://przeszkoleni-8649b.firebaseio.com",
+    "project_id": "przeszkoleni-8649b",
+    "storage_bucket": "przeszkoleni-8649b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325333234287:android:b9cac29571f27af778139a",
+        "android_client_info": {
+          "package_name": "com.example.responsywne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325333234287-j3oedt71il0skngba8e75l9ou28ej51v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpnlMse-Ql8a3wpZpDdU1RnMEcuwQ0Pmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325333234287-j3oedt71il0skngba8e75l9ou28ej51v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

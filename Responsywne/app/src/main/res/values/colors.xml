@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color1">#01C5C4</color>
+    <color name="color2">#F1E189</color>
+    <color name="color3">#B8DE6F</color>
+    <color name="color4">#F39233</color>
+    <color name="textColor">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

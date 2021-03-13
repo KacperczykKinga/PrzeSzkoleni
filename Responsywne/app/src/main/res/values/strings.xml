@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PrzeSzkoleni</string>
+    <string name="haveAccount">Zaloguj się</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="notHaveAccount">Nie masz jeszcze konta?</string>
+    <string name="logging">Logowanie</string>
+    <string name="registration">Rejestracja</string>
+    <string name="username">Nazwa użytkownika</string>
+    <string name="password">Hasło</string>
+    <string name="addData">Uzupełnij wszystkie dane</string>
+    <string name="anotherUsername">Ta nazwa użytkownika jest już zajęta</string>
+    <string name="sthBad">Coś poszło nie tak</string>
+    <string name="goodRegistration">Rejestracja przebiegła poprawnie</string>
+    <string name="noUser">Nie ma takiego uzytkownika w bazie danych</string>
+    <string name="wrongPass">Hasło jest niepoprawne</string>
+    <string name="emptyAverage">_,__</string>
+    <string name="show">Pokaż treść</string>
+    <string name="hide">Ukryj tresć</string>
+    <string name="noTopics">Nie ma jeszcze tematów dla tej lekcji</string>
+    <string name="macTopics">max</string>
+    <string name="goTest">Czy jesteś pewien że chcesz podejść do testu?</string>
+    <string name="repeatTest">Czy jesteś pewien że chcesz powtórzyć test?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="myGrades">Moje oceny</string>
+    <string name="goToTest">Test</string>
+    <string name="test">TEST:\u0020</string>
+    <string name="saveTest">Zakończ test</string>
+    <string name="getAnswers">Najpierw udziel odpowiedzi na wszystkie pytania</string>
+    <string name="oneTest">Do testu możesz podejśc tylko raz. Skończ go wypełniać.</string>
+    <string name="answers">odp</string>
+    <string name="ok">OK</string>
+    <string name="grade">Ocena:\u0020</string>
+    <string name="average">Średnia:\u0020</string>
+    <string name="myGrade">ocena</string>
+    <string name="testDone">Już przeszedłeś ten test</string>
+    <string name="logOut">Wyloguj</string>
+    <string name="logOutSure">Czy na pewno chcesz się wylogować?</string>
+
+
+    <string name="whichLesson">lesson</string>
+    <string name="whichContent">content</string>
+    <string name="whichTopic">topic</string>
+    <string name="whichTest">test</string>
+
+
+    <string name="databaseUsers">Users</string>
+    <string name="databaseLessons">Lessons</string>
+    <string name="databaseContents">Contents</string>
+    <string name="databaseListContents">listOfContents</string>
+    <string name="databaseTest">Tests</string>
+    <string name="databaseUserGrades">grades</string>
+</resources>
